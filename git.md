@@ -23,3 +23,6 @@
 * status -> tell me what files have been staged or committed
 * add -> add a file to the stage
 * git commit -m "Present tense description of what changed"
+
+## Problems
+* commit without -m "Message" => Stuck in Vim => Esc :wq
